@@ -1,5 +1,6 @@
 # Kids' corners everywhere
 
+Let's put together our knowledge and compile a great list of resources for conferences organisers to use to set up kids' corners on their events.
 
 ## Europe
 
