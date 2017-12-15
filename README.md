@@ -9,14 +9,22 @@ To support the movement please post with the hastag `#kidscornerseverywhere`
 To contribute please fork the repo, edit the README.md file and send back a PR.
 
 
-## Europe  
----
+## Africa
+-
+ 
+## Asia
+- 
 
+## Australia
+- 
+
+## Europe  
 - [Portugal](../master/Portugal/README.md)
 
 ## North America  
----
 - [USA](../master/USA/README.md)
 
-## Africa
----
+## South America
+
+
+
