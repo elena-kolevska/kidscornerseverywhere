@@ -12,11 +12,11 @@ To contribute please fork the repo, edit the README.md file and send back a PR.
 ## Europe  
 ---
 
-- [Portugal](../master/Portugal/README)
+- [Portugal](../master/Portugal/README.md)
 
 ## North America  
 ---
-- [USA](../master/USA/README)
+- [USA](../master/USA/README.md)
 
 ## Africa
 ---

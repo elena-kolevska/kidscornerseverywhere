@@ -2,4 +2,4 @@
 
 Please add your wisdom here...
 
-- [New York](../master/USA/NewYork.md)
+- [New York](../USA/NewYork.md)
